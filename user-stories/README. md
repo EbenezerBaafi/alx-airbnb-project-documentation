@@ -1,0 +1,71 @@
+# Airbnb Project - User Stories
+
+This document outlines the **user stories** for the Airbnb-like platform.  
+The goal is to define clear, concise, and actionable requirements for the **backend development** process.
+
+---
+
+## 📌 Overview
+The platform allows users to **register**, **list properties**, **book accommodations**, **make payments**, and **leave reviews**.  
+These stories focus on how different types of users (guests, hosts, and admins) interact with the system.
+
+---
+
+## 🧩 User Stories
+
+### **1. User Registration & Login**
+**User Story:**  
+_As a guest, I want to create an account and log in securely so that I can book properties and manage my reservations._
+
+---
+
+### **2. Host Property Listing**
+**User Story:**  
+_As a host, I want to add and manage my property listings so that potential guests can view and book my accommodations._
+
+---
+
+### **3. Booking a Property**
+**User Story:**  
+_As a guest, I want to search for available properties and book them so that I can reserve a place to stay during my travel dates._
+
+---
+
+### **4. Payment Processing**
+**User Story:**  
+_As a guest, I want to make secure payments for my bookings so that I can confirm my reservation without worrying about fraud._
+
+---
+
+### **5. Reviews & Ratings**
+**User Story:**  
+_As a guest, I want to leave a review and rating after my stay so that future guests can make informed booking decisions._
+
+---
+
+## 🎯 Purpose
+These user stories serve as the foundation for:
+- **Backend API design**
+- **Database structure planning**
+- **Integration of authentication, booking, and payment services**
+- **Future feature enhancements**
+
+---
+
+## 🛠 Tech Stack (Planned)
+- **Backend:** Node.js / Express.js (or preferred framework)
+- **Database:** PostgreSQL / MySQL
+- **Authentication:** JWT + OAuth2
+- **Payments:** Stripe / PayPal integration
+
+---
+
+## 📌 Next Steps
+- Define **acceptance criteria** for each user story  
+- Create **API endpoint specifications**  
+- Design **ERD** and backend architecture  
+- Set up the project repository and CI/CD workflow
+
+---
+**Author:** Ebenzer Baafi  
+**Project:** Airbnb Clone Backend  
