@@ -647,3 +647,5 @@ When creating your diagrams, consider organizing them into these categories:
 6. **Booking State Machine** - Booking status transitions
 7. **Authentication Flow** - JWT and OAuth processes
 8. **Microservices Diagram** (if applicable) - Service boundaries and communication
+
+![use_case_diagram] /
